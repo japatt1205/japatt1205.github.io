@@ -2,7 +2,7 @@
 
 Jack Patten is a Program Manager at Microsoft
 
-Check back as this page is updated with more coding projects!
+Check back as I add more of my projects!
 
 # Projects
 
