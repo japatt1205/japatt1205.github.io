@@ -1,6 +1,8 @@
 # Jack Patten
 
-Jack Patten is a Program Manager at Microsoft. Check back as I update this page with more of my coding projects!
+Jack Patten is a Program Manager at Microsoft
+
+Check back as this page is updated with more coding projects!
 
 # Projects
 
@@ -24,4 +26,4 @@ Try it out by clicking [here](https://jackdatacollector.herokuapp.com/)
 
 ## Contact Information
 
-# Email: jpatten1205@gmail.com
+Email: jpatten1205@gmail.com
