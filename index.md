@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Jack Patten
 
-You can use the [editor on GitHub](https://github.com/japatt1205/japatt1205.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Jack Patten is a Program Manager at Microsoft. Check back as I update this page with more of my coding projects!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Projects
 
-### Markdown
+## Pupfinder App
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This project was created for individuals seeking dogs in the Seattle area. This application scrapes 6 different sources, searching for any newly listed dogs. When a new dog is found it is instantly pushed as a Slack notification. This program was cloud hosted and run every 5 minutes using Python Anywhere. 
 
-```markdown
-Syntax highlighted code block
+See the Slack channel by clicking [here](https://join.slack.com/t/dognotification/shared_invite/enQtNTYwNzY3NzcxNzE0LTA2YWYyZTExZmY2NDRkMTBiNWVhZmM1ODJlNjAzMzIxNDk3OTAzMzdjZTg0ODg1YjRjNTVkYzJiNzIzMGVmNDg)
 
-# Header 1
-## Header 2
-### Header 3
+## Candlestick Chart
 
-- Bulleted
-- List
+This interactive chart was created to track the changes in stockprice over time. As an example, I have displayed the changes in Microsoft stock between July 15th 2018 and October 19th 2018. 
 
-1. Numbered
-2. List
+See the chart by clicking [here](https://jpatten1205.herokuapp.com/plot/)
 
-**Bold** and _Italic_ and `Code` text
+## Simple Data Collector
 
-[Link](url) and ![Image](src)
-```
+With this simple data collecter the user inputs their height via webpage, which then sends an email back to the user returning their height and the average height of all users.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Try it out by clicking [here](https://jackdatacollector.herokuapp.com/)
 
-### Jekyll Themes
+## Contact Information
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/japatt1205/japatt1205.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Email: jpatten1205@gmail.com
